@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:twitter_clone/DummyData.dart';
 
+
+import '../DummyData.dart';
 import '../widgets/chat_item.dart';
 
 class ChatsScreen extends StatefulWidget {

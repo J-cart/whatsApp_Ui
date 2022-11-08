@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
-import 'package:twitter_clone/DummyData.dart';
 
+
+import '../DummyData.dart';
 import '../widgets/call_item.dart';
 
 class CallScreen extends StatefulWidget {

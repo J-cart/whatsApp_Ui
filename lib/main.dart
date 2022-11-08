@@ -1,5 +1,7 @@
+
 import 'package:flutter/material.dart';
-import 'package:twitter_clone/screens/MainTabScreen.dart';
+import 'package:whatsapp_clone/screens/MainTabScreen.dart';
+
 
 void main() {
   runApp(const MyApp());

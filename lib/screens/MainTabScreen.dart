@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:twitter_clone/DummyData.dart';
-import 'package:twitter_clone/DummyData.dart';
-import 'package:twitter_clone/screens/CallScreen.dart';
-import 'package:twitter_clone/screens/CameraScreen.dart';
-import 'package:twitter_clone/screens/ChatsScreen.dart';
-import 'package:twitter_clone/screens/StatusScreen.dart';
+import 'package:whatsapp_clone/screens/CameraScreen.dart';
+
+import '../DummyData.dart';
+import 'CallScreen.dart';
+import 'ChatsScreen.dart';
+import 'StatusScreen.dart';
 
 class MainTabsScreen extends StatefulWidget {
   const MainTabsScreen({Key? key}) : super(key: key);
